@@ -14,4 +14,4 @@ from django.core.asgi import get_asgi_application
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'it221FinalProject.settings')
 
 application = get_asgi_application()
-## assgi
+## assgit
